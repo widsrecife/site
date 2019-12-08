@@ -10,7 +10,7 @@ import divisor from '../../assets/img/site-divisor-svg.svg'
 const App = () => (
   <div className="container">
     <Header />
-    <img class="divisor"src={divisor}></img>
+    <img className="divisor" src={divisor} alt="Formas geométricas" />
     <NextEvents />
   </div>
 )
