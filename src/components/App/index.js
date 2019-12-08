@@ -1,26 +1,18 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import './app.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+import Header from '../Header'
+import NextEvents from '../NextEvents';
+
+import 'bulma/css/bulma.css'
+import divisor from '../../assets/img/site-divisor-svg.svg'
+
+const App = () => (
+  <div className="container">
+    <Header />
+    <img class="divisor"src={divisor}></img>
+    <NextEvents />
+  </div>
+)
 
 export default App;
