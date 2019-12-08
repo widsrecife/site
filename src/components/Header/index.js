@@ -4,10 +4,10 @@ import Nav from '../Nav';
 import About from '../About';
 
 
-const Header = () => (
+const Header = (props) => (
     <header className="header">
         <Nav />
-        <img className="header__poster" src={this.props.poster} alt="" />
+        <img className="header__poster" src={props.poster} alt="" />
         <About />
     </header>
 );
