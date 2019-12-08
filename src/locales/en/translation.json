@@ -1,0 +1,11 @@
+{
+    "Header": {
+        "Navbar": {
+            "About": "About",
+            "Conferences": "Conferences",
+            "Meetups": "Meetups",
+            "Dathaton": "Dathaton",
+            "Blog": "Blog"
+        }
+    }
+}
