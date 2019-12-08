@@ -9,7 +9,7 @@ import About from '../About';
 
 import '../../assets/lib/bulma.css'
 import divisor from '../../assets/img/site-divisor-svg.svg'
-import poster from '../../assets/img/poster-home4.jpg'
+import poster from '../../assets/img/poster-home.jpg'
 
 const App = () => (
   <div className="container">
