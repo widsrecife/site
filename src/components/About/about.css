@@ -1,3 +1,6 @@
-.about{
-    
+@import "../../style.css";
+
+.about {
+    font: FuturaBold;
+    color: var(--p-color);
 }

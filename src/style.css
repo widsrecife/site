@@ -1,13 +1,36 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@font-face{
+  font-family: FuturaMedium;
+  src: url(./assets/fonts/FuturaStd-Medium.otf);
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@font-face{
+  font-family: FuturaBold;
+  src: url(./assets/fonts/FuturaStd-Bold_0.otf);
+}
+
+@font-face{
+  font-family: FuturaLight;
+  src: url(./assets/fonts/FuturaStd-Light_0.otf);
+}
+
+:root{
+  --p-color: #000000;
+  --p-button-color: #F4F6F5;  
+  --h1-color: #000000;
+  --h2-color: #000000;
+  --h3-color: #000000;
+  --footer-color: #D0D2D4;
+  --background-card-hover-color: #F4F6F5;
+  --background-menu-color: #00B140;
+  --highlights-color: #00B140;
+  --button-color: #00B140;
+  --p-size: 24px;
+  --h1-size: 38px;
+  --h2-size: 30px;
+  --h3-size: 30px;
+  --p-font: FuturaLight;
+  --p-button-font: FuturaMedium;
+  --h1-font: FuturaBold;
+  --h2-font: FuturaBold;
+  --h3-font: FuturaMedium;
 }
