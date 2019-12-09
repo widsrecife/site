@@ -5,9 +5,9 @@ import Header from '../Header';
 import InviteTalk from '../InviteTalk';
 import Footer from '../Footer';
 
-import '../../assets/lib/bulma.css'
-import divisor from '../../assets/img/site-divisor-svg.svg'
-import poster from '../../assets/img/img-contato.png'
+import '../../assets/lib/bulma.css';
+import divisor from '../../assets/img/site-divisor-svg.svg';
+import poster from '../../assets/img/img-contato.png';
 
 const ConductCode = () => (
   <div className="container">

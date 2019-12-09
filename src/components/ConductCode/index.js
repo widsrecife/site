@@ -1,12 +1,12 @@
 import React from 'react';
 import './conductCode.css';
 
-import Header from '../Header'
+import Header from '../Header';
 import Footer from '../Footer';
 
-import '../../assets/lib/bulma.css'
-import divisor from '../../assets/img/site-divisor-svg.svg'
-import poster from '../../assets/img/img-cond-conduta.png'
+import '../../assets/lib/bulma.css';
+import divisor from '../../assets/img/site-divisor-svg.svg';
+import poster from '../../assets/img/img-cond-conduta.png';
 
 const ConductCode = () => (
   <div className="container">

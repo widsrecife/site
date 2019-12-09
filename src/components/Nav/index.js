@@ -1,7 +1,7 @@
 import React from 'react';
 import './nav.css';
 
-import divisor from '../../assets/img/site-divisor-svg.svg'
+import divisor from '../../assets/img/site-divisor-svg.svg';
 
 const Nav = () => (
     <nav className="navbar is-fixed-top" role="navigation" aria-label="main navigation">
