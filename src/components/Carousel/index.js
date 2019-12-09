@@ -1,10 +1,10 @@
 import React from 'react';
-import './schedule.css';
+import './carousel.css';
 
-const Schedule = () => (
+const Carousel = () => (
     <section>
-        Schedule
+        Carousel
     </section>
 );
 
-export default Schedule;
+export default Carousel;
