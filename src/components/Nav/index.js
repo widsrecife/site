@@ -19,7 +19,7 @@ const Nav = () => (
                 <div className="navbar-item has-dropdown is-hoverable">
                     <a className="navbar-link" href="#">Sobre</a>
                     <div className="navbar-dropdown">
-                        <a className="navbar-item" href="../ConductCode/index.js">Código de Conduta</a>
+                        <a className="navbar-item" href="../../conductCode.js">Código de Conduta</a>
                         <a className="navbar-item" href="#">Contato</a>
                     </div>
                 </div>
