@@ -24,6 +24,7 @@
     text-align: center;
     align-items: center;
     margin: 40px;
+    padding: 15px;
     background-color: var(--button-color);
 
     width: 190px;
