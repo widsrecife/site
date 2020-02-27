@@ -1,0 +1,38 @@
+@import "../../style.css";
+
+.meetup {
+    font-family: var(--p-font);
+    display: flex;
+    flex-direction: row;
+}
+
+.meetup__title {
+    font-family: var(--h1-font);
+    font-size: var(--h2-size);
+}
+
+.meetup__desc {
+    font-size: var(--p-secondary-size);
+}
+
+.meetup__hour {
+    font-size: var(--p-secondary-size);
+}
+
+.meetup__first {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin: 40px;
+    background-color: var(--button-color);
+
+    width: 190px;
+    height: 104px;
+
+    border-radius: 20px;
+}
+
+.meetup__date {
+    font-size: var(--h2-size);
+    color: var(--h2-secondary-color);
+}

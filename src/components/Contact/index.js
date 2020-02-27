@@ -2,8 +2,6 @@ import React from 'react';
 import './contact.css';
 
 import Header from '../Header';
-import InviteTalk from '../InviteTalk';
-import Footer from '../Footer';
 
 import '../../assets/lib/bulma.css';
 import divisor from '../../assets/img/site-divisor-svg.svg';

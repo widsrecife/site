@@ -4,7 +4,7 @@ import './app.css';
 import NextEvents from '../NextEvents';
 import Footer from '../Footer';
 import About from '../About';
-import Contact from '../Contact';
+import Meetups from '../Meetups';
 
 import '../../assets/lib/bulma.css';
 import divisor from '../../assets/img/site-divisor-svg.svg';
@@ -16,7 +16,7 @@ const App = () => (
     <NextEvents />
      */}
 
-     <Contact />
+     <Meetups />
 
     <Footer />
   </div>

@@ -1,7 +1,7 @@
 import React from 'react';
-import './event.css';
+import './eventdetail.css';
 
-const Event = (props) => ( 
+const EventDatail = (props) => ( 
     <section className="event">
         <div className="event__first">
             <div class="event__date">
@@ -16,4 +16,4 @@ const Event = (props) => (
     </section>
 );
 
-export default Event;
+export default EventDatail;
