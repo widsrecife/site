@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/site/static/css/main.fc9a6efa.chunk.css",
-    "main.js": "/site/static/js/main.2f0d066b.chunk.js",
-    "main.js.map": "/site/static/js/main.2f0d066b.chunk.js.map",
+    "main.css": "/site/static/css/main.253bf0d1.chunk.css",
+    "main.js": "/site/static/js/main.72a2d10d.chunk.js",
+    "main.js.map": "/site/static/js/main.72a2d10d.chunk.js.map",
     "runtime-main.js": "/site/static/js/runtime-main.aab683cd.js",
     "runtime-main.js.map": "/site/static/js/runtime-main.aab683cd.js.map",
     "static/js/2.df95e94f.chunk.js": "/site/static/js/2.df95e94f.chunk.js",
     "static/js/2.df95e94f.chunk.js.map": "/site/static/js/2.df95e94f.chunk.js.map",
     "index.html": "/site/index.html",
-    "precache-manifest.4f5c01549f592dab8e5560f780f20515.js": "/site/precache-manifest.4f5c01549f592dab8e5560f780f20515.js",
+    "precache-manifest.151ebb4df3faff47dd8b6840a7c28b58.js": "/site/precache-manifest.151ebb4df3faff47dd8b6840a7c28b58.js",
     "service-worker.js": "/site/service-worker.js",
-    "static/css/main.fc9a6efa.chunk.css.map": "/site/static/css/main.fc9a6efa.chunk.css.map",
+    "static/css/main.253bf0d1.chunk.css.map": "/site/static/css/main.253bf0d1.chunk.css.map",
     "static/js/2.df95e94f.chunk.js.LICENSE": "/site/static/js/2.df95e94f.chunk.js.LICENSE",
     "static/media/nav.css": "/site/static/media/Helvetica-Normal.c935fcc2.ttf",
     "static/media/cc.png": "/site/static/media/cc.659bf449.png",
     "static/media/email.svg": "/site/static/media/email.2529f338.svg",
-    "static/media/github.svg": "/site/static/media/github.bc541aa0.svg",
+    "static/media/github.svg": "/site/static/media/github.d13f9aad.svg",
     "static/media/instagram.svg": "/site/static/media/instagram.7fd40045.svg",
     "static/media/poster-home.png": "/site/static/media/poster-home.a4563a68.png",
     "static/media/site-divisor-svg.svg": "/site/static/media/site-divisor-svg.bde26656.svg",
     "static/media/twitter.svg": "/site/static/media/twitter.daec9b31.svg",
-    "static/media/wids-banner-grey.svg": "/site/static/media/wids-banner-grey.29528661.svg"
+    "static/media/wids-banner-grey.svg": "/site/static/media/wids-banner-grey.216c638d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.aab683cd.js",
     "static/js/2.df95e94f.chunk.js",
-    "static/css/main.fc9a6efa.chunk.css",
-    "static/js/main.2f0d066b.chunk.js"
+    "static/css/main.253bf0d1.chunk.css",
+    "static/js/main.72a2d10d.chunk.js"
   ]
 }
