@@ -9,7 +9,7 @@ import divisor from '../../assets/img/site-divisor-svg.svg';
 import poster from '../../assets/img/img-cond-conduta.png';
 
 const ConductCode = () => (
-  <div className="container">
+  <div className="container" id="conduta">
     <Header poster={poster} />
     <h1>Código de Conduta</h1>
     <img className="divisor" src={divisor} alt="Formas geométricas" />

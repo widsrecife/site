@@ -1,4 +1,35 @@
 @import "../../style.css";
-.invite_talk{
+
+
+.invite{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     width: 100%;
+    margin: 60px;
+}
+
+.invite__text {
+    font-family: var(--p-font);
+    font-style: normal;
+    font-weight: 300;
+    font-size: var(--p-size);
+    line-height: 29px;
+}
+
+.invite__btn {
+    margin-top: 20px;
+    width: 369px;
+    height: 63px;
+    background: var(--button-color);
+    border-radius: 16px;
+
+    cursor: pointer;
+
+    font-family: var(--p-font);
+    text-align: center;
+    font-size: var(--h2-size);
+    line-height: 36px;
+    text-align: center;
+    color: var(--h2-secondary-color)
 }

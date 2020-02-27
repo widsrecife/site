@@ -3,9 +3,9 @@ import './header.css';
 import Nav from '../Nav';
 
 const Header = (props) => (
-    <header className="header">
+    <header className="header-default">
         <Nav />
-        <img className="header__poster" src={props.poster} alt="" />
+        <img className="header__poster" src={props.poster} alt="Banner WiDS" />
     </header>
 );
 

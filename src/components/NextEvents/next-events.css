@@ -1,1 +1,34 @@
 @import "../../style.css";
+
+.next-events {
+    margin: 100px;
+}
+
+.title {
+    text-align: center;
+    font-family: var(--h1-secondary-font);
+    font-style: normal;
+    font-weight: 900;
+    font-size: var( --h1-size);
+    line-height: 35px;
+
+    color: var(--h1-color);
+}
+
+.next-events__card {
+    margin-top: 40px;
+    padding: 40px;
+
+    width: 1179px;
+    height: 318px;
+}
+
+.next-events__card:hover {
+    cursor: pointer;
+    background: #F4F7F5;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.58);
+    backdrop-filter: blur(4px);
+    /* Note: backdrop-filter has minimal browser support */
+
+    border-radius: 18px;
+}

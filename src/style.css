@@ -13,6 +13,16 @@
   src: url(./assets/fonts/FuturaStd-Light_0.otf);
 }
 
+@font-face{
+  font-family: Helvetica-Normal;
+  src: url(./assets/fonts/Helvetica-Normal.ttf);
+}
+
+@font-face{
+  font-family: Helvetica-Black;
+  src: url(./assets/fonts/Helvetica-Black.otf);
+}
+
 :root{
   --p-color: #000000;
   --p-button-color: #F4F6F5;  
@@ -24,13 +34,16 @@
   --background-menu-color: #00B140;
   --highlights-color: #00B140;
   --button-color: #00B140;
+  --h2-secondary-color: #FFFFFF;
   --p-size: 24px;
+  --p-secondary-size: 22px;
   --h1-size: 38px;
   --h2-size: 30px;
   --h3-size: 30px;
   --p-font: FuturaLight;
   --p-button-font: FuturaMedium;
   --h1-font: FuturaBold;
+  --h1-secondary-font: Helvetica-Black;
   --h2-font: FuturaBold;
   --h3-font: FuturaMedium;
 }

@@ -17,10 +17,10 @@ const Nav = () => (
         <div id="navbarBasicExample" className="navbar-menu">
             <div className="navbar-start">
                 <div className="navbar-item has-dropdown is-hoverable">
-                    <a className="navbar-link" href="#">Sobre</a>
+                    <a className="navbar-link" href="#index">Sobre</a>
                     <div className="navbar-dropdown">
-                        <a className="navbar-item" href="../../conductCode.js">Código de Conduta</a>
-                        <a className="navbar-item" href="#">Contato</a>
+                        <a className="navbar-item" href="#conduta">Código de Conduta</a>
+                        <a className="navbar-item" href="#contato">Contato</a>
                     </div>
                 </div>
                 <div className="navbar-item has-dropdown is-hoverable">

@@ -1,1 +1,38 @@
 @import "../../style.css";
+
+.event {
+    font-family: var(--p-font);
+    display: flex;
+    flex-direction: row;
+}
+
+.event__title {
+    font-family: var(--h1-font);
+    font-size: var(--h2-size);
+}
+
+.event__desc {
+    font-size: var(--p-secondary-size);
+}
+
+.event__hour {
+    font-size: var(--p-secondary-size);
+}
+
+.event__first {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin: 40px;
+    background-color: var(--button-color);
+
+    width: 190px;
+    height: 104px;
+
+    border-radius: 20px;
+}
+
+.event__date {
+    font-size: var(--h2-size);
+    color: var(--h2-secondary-color);
+}

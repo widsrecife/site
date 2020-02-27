@@ -12,12 +12,12 @@ import divisor from '../../assets/img/site-divisor-svg.svg';
 import poster from '../../assets/img/poster-home.png';
 
 const App = () => (
-  <div className="container">
+  <div className="container-default" id="index">
     <Header poster={poster} />
     <About />
     <img className="divisor" src={divisor} alt="Formas geométricas" />
     <NextEvents />
-    <InviteTalk />
+    {/* <InviteTalk /> */}
     <Footer />
   </div>
 )

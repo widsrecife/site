@@ -1,0 +1,16 @@
+{
+    "events": [
+        {
+            "title": "Live Coding - Introdução",
+            "date": "15 fev.",
+            "hour": "20:00h",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+        },
+        {
+            "title": "Open Data Day",
+            "date": "01 mar.",
+            "hour": "13:00h",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+        }
+    ]
+}
