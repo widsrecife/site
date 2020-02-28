@@ -31,6 +31,9 @@
 
     width: 95%;
     height: 318px;
+    overflow:hidden;
+    white-space:wrap;
+    text-overflow: ellipsis;
 }
 
 .next-events__card:hover {
