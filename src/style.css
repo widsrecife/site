@@ -26,24 +26,31 @@
 :root{
   --p-color: #000000;
   --p-button-color: #F4F6F5;  
+  --p-font: FuturaLight;
+  --p-button-font: FuturaMedium;
+  --p-size: 24px;
+  --p-secondary-size: 22px;
+  --p-line-height: 29px;
+
   --h1-color: #000000;
+  --h1-size: 38px;
+  --h1-font: FuturaBold;
+  --h1-secondary-font: Helvetica-Black;
+
   --h2-color: #000000;
+  --h2-secondary-color: #FFFFFF;
+  --h2-size: 30px;
+  --h2-font: FuturaBold;
+  
+
   --h3-color: #000000;
+  --h3-font: FuturaMedium;
+  --h3-size: 30px;
+
   --footer-color: #D0D2D4;
   --background-card-hover-color: #F4F6F5;
   --background-menu-color: #00B140;
   --highlights-color: #00B140;
-  --button-color: #00B140;
-  --h2-secondary-color: #FFFFFF;
-  --p-size: 24px;
-  --p-secondary-size: 22px;
-  --h1-size: 38px;
-  --h2-size: 30px;
-  --h3-size: 30px;
-  --p-font: FuturaLight;
-  --p-button-font: FuturaMedium;
-  --h1-font: FuturaBold;
-  --h1-secondary-font: Helvetica-Black;
-  --h2-font: FuturaBold;
-  --h3-font: FuturaMedium;
+  --button-color: #00B140; 
+  
 }

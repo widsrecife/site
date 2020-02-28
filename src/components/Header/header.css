@@ -1,5 +1,5 @@
 @import "../../style.css";
 
 .header__poster {
-    width: 100%;
+    object-fit: cover;    
 }
