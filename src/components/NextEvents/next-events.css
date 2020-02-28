@@ -1,7 +1,10 @@
 @import "../../style.css";
 
 .next-events {
-    margin: 100px;
+    margin-top: 25px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 .title {
@@ -11,15 +14,22 @@
     font-weight: 900;
     font-size: var( --h1-size);
     line-height: 35px;
+    padding-bottom: 80px;
 
     color: var(--h1-color);
+}
+
+@media (min-width: 980px){
+    .title {
+        padding-bottom: 100px;
+    }
 }
 
 .next-events__card {
     margin-top: 40px;
     padding: 40px;
 
-    width: 1179px;
+    width: 95%;
     height: 318px;
 }
 
