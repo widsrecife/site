@@ -19,22 +19,22 @@ const Nav = () => (
                 <div className="navbar-item has-dropdown is-hoverable">
                     <a className="navbar-link" href="#index">Sobre</a>
                     <div className="navbar-dropdown">
-                        <a className="navbar-item" href="#conduta">Código de Conduta</a>
-                        <a className="navbar-item" href="#contato">Contato</a>
+                        <a className="navbar-item" href="../ConductCode/index.js">Código de Conduta</a>
+                        <a className="navbar-item" href="../Contact/index.js">Contato</a>
                     </div>
                 </div>
                 <div className="navbar-item has-dropdown is-hoverable">
                     <a className="navbar-link" href="#">Conferência</a>
                     <div className="navbar-dropdown">
-                        <a className="navbar-item" href="#">WiDS 2019</a>
-                        <a className="navbar-item" href="#">WiDS 2018</a>
-                        <a className="navbar-item" href="#">WiDS 2017</a>
+                        <a className="navbar-item" href="../Wids2019/index.js">WiDS 2019</a>
+                        <a className="navbar-item" href="../Wids2018/index.js">WiDS 2018</a>
+                        <a className="navbar-item" href="../Wids2017/index.js">WiDS 2017</a>
                         
                     </div>
                 </div>
-                <a className="navbar-item" href="#">Meetups</a>
-                <a className="navbar-item" href="#">Dathaton</a>
-                <a className="navbar-item" href="#">Blog</a>
+                <a className="navbar-item" href="../Meetups/index.js">Meetups</a>
+                <a className="navbar-item" href="../Datathon/index.js">Dathaton</a>
+                {/* <a className="navbar-item" href="#">Blog</a> */}
             </div>
 
             <div className="navbar-end">
