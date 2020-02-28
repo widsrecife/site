@@ -1,0 +1,78 @@
+{
+    "schedules2019": [
+        {
+            "title": "",
+            "hour": "08:30",
+            "author": "",
+            "desc": "Credenciamento"
+        },
+        {
+            "title": "\"Nome da talk\"",
+            "hour": "09:00",
+            "author": "Fulana, desenvolvedora.",
+            "desc": ""
+        },
+        {
+            "title": "\"Nome da talk\"",
+            "hour": "10:00",
+            "author": "Fulana, desenvolvedora.",
+            "desc": ""
+        },
+        {
+            "title": "",
+            "hour": "11:00",
+            "author": "",
+            "desc": "Cofee Break"
+        },
+        {
+            "title": "\"Nome da talk\"",
+            "hour": "11:30",
+            "author": "Fulana, desenvolvedora.",
+            "desc": ""
+        },
+        {
+            "title": "",
+            "hour": "12:30",
+            "author": "",
+            "desc": "Encerramento"
+        }
+    ],
+    "schedules2018": [
+        {
+            "title": "",
+            "hour": "08:30",
+            "author": "",
+            "desc": "Credenciamento"
+        },
+        {
+            "title": "\"Nome da talk\"",
+            "hour": "09:00",
+            "author": "Fulana, desenvolvedora.",
+            "desc": ""
+        },
+        {
+            "title": "\"Nome da talk\"",
+            "hour": "10:00",
+            "author": "Fulana, desenvolvedora.",
+            "desc": ""
+        },
+        {
+            "title": "",
+            "hour": "11:00",
+            "author": "",
+            "desc": "Cofee Break"
+        },
+        {
+            "title": "\"Nome da talk\"",
+            "hour": "11:30",
+            "author": "Fulana, desenvolvedora.",
+            "desc": ""
+        },
+        {
+            "title": "",
+            "hour": "12:30",
+            "author": "",
+            "desc": "Encerramento"
+        }
+    ]
+}

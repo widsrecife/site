@@ -1,0 +1,53 @@
+@import "../../style.css";
+
+
+.scheduledetail {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.scheduledetail_second {
+    padding: 30px;
+}
+
+.scheduledetail__hour {
+    font-family: var(--p-font);
+    font-style: normal;
+    font-weight: 500;
+    font-size: var(--p-size);
+    line-height: 29px;
+    color: var(--p-secondary-color);    
+    padding: 30px;
+}
+
+.scheduledetail__title {
+    font-family: var(--h1-secondary-font);
+    font-size: var(--p-size);
+    line-height: 28px;
+    color: var(--p-secondary-color);   
+    padding-right: 20px; 
+}
+
+.scheduledetail__author {
+    font-family: var(--p-font);
+    font-style: normal;
+    font-weight: 300;
+    font-size: var(--p-size);
+    line-height: 29px;
+    color: var(--p-secondary-color);
+}
+
+.scheduledetail__desc {
+    font-family: var(--p-font);
+    font-style: normal;
+    font-weight: 300;
+    font-size: var(--p-size);
+    line-height: 29px;
+    color: var(--highlights-color);
+}
+
+.scheduledetail_third {
+    display: flex;
+    flex-direction: row;
+}
