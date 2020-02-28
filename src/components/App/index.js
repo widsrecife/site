@@ -7,17 +7,13 @@ import About from '../About';
 
 import '../../assets/lib/bulma.css';
 import divisor from '../../assets/img/site-divisor-svg.svg';
-import Schedules from '../Schedules';
 
 const App = () => (
-  <div className="container-default" id="index">
-    {/* <About />
+  <div className="container-default">
+    <About />
     <img className="divisor" src={divisor} alt="Formas geométricas" />
     <NextEvents />
-     */}
-
-    <Schedules />
-
+    
     <Footer />
   </div>
 )

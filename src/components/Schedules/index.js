@@ -7,6 +7,7 @@ import poster from '../../assets/img/img-conferencia.png';
 import divisor from '../../assets/img/site-divisor-svg.svg';
 import schedules from './Schedules.json';
 import SchedulesDetail from '../ScheduleDetail';
+import Carousel from '../Carousel';
 
 import audience from '../../assets/img/audience.svg';
 import speakers from '../../assets/img/speaker.svg';
@@ -38,6 +39,13 @@ const Schedules = () => (
                 <h2 className="schedule__center-item-title">10 <span className="schedule__center-item-title-color">palestrantes</span></h2>
             </div>
         </div>
+
+        <div className="space"></div>
+
+        <Carousel />
+
+        <div className="space"></div>
+
 
         <h1 className="schedule__title">Apoiadoras</h1>
         <img className="divisor" src={divisor} alt="Formas geométricas" />
