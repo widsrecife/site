@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fd1007ae4d41c8ee3af5caf22fd75d74",
+    "revision": "930b00fba66bec7d98371d0dfcdacb92",
     "url": "/site/index.html"
   },
   {
-    "revision": "7e7014f13c9107786a12",
-    "url": "/site/static/css/main.73d56618.chunk.css"
+    "revision": "4743b344a1c69ac3d232",
+    "url": "/site/static/css/main.6ac76a56.chunk.css"
   },
   {
-    "revision": "30d3cd46e8e786ff2038",
-    "url": "/site/static/js/2.0360afed.chunk.js"
+    "revision": "5a1e2665d8868b17fa4e",
+    "url": "/site/static/js/2.df95e94f.chunk.js"
   },
   {
     "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/site/static/js/2.0360afed.chunk.js.LICENSE"
+    "url": "/site/static/js/2.df95e94f.chunk.js.LICENSE"
   },
   {
-    "revision": "7e7014f13c9107786a12",
-    "url": "/site/static/js/main.401785d4.chunk.js"
+    "revision": "4743b344a1c69ac3d232",
+    "url": "/site/static/js/main.705b6f63.chunk.js"
   },
   {
     "revision": "095a9009ad1c700e054d",
@@ -44,10 +44,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/site/static/media/Helvetica-Normal.c935fcc2.ttf"
   },
   {
-    "revision": "49845019909027bb3bc04413701d3e72",
-    "url": "/site/static/media/audience.49845019.svg"
-  },
-  {
     "revision": "659bf44956f326b5451a743017af03e9",
     "url": "/site/static/media/cc.659bf449.png"
   },
@@ -60,14 +56,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/site/static/media/github.bc541aa0.svg"
   },
   {
-    "revision": "c86026ac790e93f3a9df3e6e895b7667",
-    "url": "/site/static/media/image.c86026ac.png"
-  },
-  {
-    "revision": "242c0d3043280f6c5e45c21175cca820",
-    "url": "/site/static/media/img-conferencia.242c0d30.png"
-  },
-  {
     "revision": "7fd400456215ab99e4ad1957c3a2fdb2",
     "url": "/site/static/media/instagram.7fd40045.svg"
   },
@@ -78,10 +66,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bde266565f59ebd438d18ea90dbceae7",
     "url": "/site/static/media/site-divisor-svg.bde26656.svg"
-  },
-  {
-    "revision": "62955d36f511cea878ec34e5b61c9a8a",
-    "url": "/site/static/media/speaker.62955d36.svg"
   },
   {
     "revision": "daec9b31cccf6c0189b3258b1493898e",
